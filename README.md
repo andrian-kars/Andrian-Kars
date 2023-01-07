@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Andrian Karsanashvili**!
-## I'm a *Front-End Engineer* from Lviv.
+## I'm a *Senior Front-End Engineer* from Lviv.
 ### Check my website: [andrian-kars.com](https://andrian-kars.com/)
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
